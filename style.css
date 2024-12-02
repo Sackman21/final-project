@@ -20,7 +20,7 @@ section{
 }
 .code{
     height: 800px;
-    width: 450px;
+    width: inherit;
 }
 #contact{
     float: left;
