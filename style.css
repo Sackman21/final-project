@@ -1,7 +1,7 @@
 body{
     font-family: 'Times New Roman', Times, serif;
     background-color: lightgrey;
-    border-top: 10px solid black;
+    border-top: 20px solid black;
 }
 
 section{
@@ -21,4 +21,11 @@ section{
 .code{
     height: 800px;
     width: 450px;
+}
+#contact{
+    float: left;
+    margin-right: 10px;
+}
+#title{
+    float: left;
 }
