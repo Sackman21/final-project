@@ -1,9 +1,24 @@
 body{
     font-family: 'Times New Roman', Times, serif;
     background-color: lightgrey;
+    border-top: 10px solid black;
 }
 
 section{
     display: flex;
     background-color: grey;
+}
+
+#PhotoMe{
+    height: 300px;
+    width: 200px;
+    float: left;
+    margin-right: 20px;
+}
+#nav{
+    border-bottom: 10px solid black;
+}
+.code{
+    height: 800px;
+    width: 450px;
 }
