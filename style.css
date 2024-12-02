@@ -5,4 +5,5 @@ body{
 
 section{
     display: flex;
+    background-color: grey;
 }
