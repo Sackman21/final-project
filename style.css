@@ -1,6 +1,6 @@
 body{
     font-family: 'Times New Roman', Times, serif;
-    background-color: white;
+    background-color: darkslategrey;
     color: black;
 }
 h1{
@@ -18,7 +18,7 @@ p{
 
 section{
     display: flex;
-    background-color: #0B9A6D;
+    background-color: white;
     
     
 }
@@ -32,7 +32,7 @@ section{
 #nav{
     border-bottom: 10px solid black;
     border-top: 20px solid black;
-    background-color: #18453B;
+    background-color: #0B9A6D;
 }
 .code{
     height: 800px;
