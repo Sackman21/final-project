@@ -17,7 +17,7 @@ p{
 section{
     display: flex;
     background-color: grey;
-    margin-right: 10px;
+    
 }
 
 #PhotoMe{
@@ -32,6 +32,8 @@ section{
 .code{
     height: 800px;
     width: inherit;
+    float: right;
+    margin-left: 20px;
 }
 #contact{
     float: left;
