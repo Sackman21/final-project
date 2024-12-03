@@ -1,6 +1,6 @@
 body{
     font-family: 'Times New Roman', Times, serif;
-    background-color: #18453B;
+    background-color: white;
     color: black;
 }
 h1{
@@ -18,7 +18,7 @@ p{
 
 section{
     display: flex;
-    background-color: white;
+    background-color: #0B9A6D;
     
     
 }
