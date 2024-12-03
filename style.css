@@ -18,7 +18,7 @@ p{
 
 section{
     display: flex;
-    background-color: white;
+    background-color: darkslategrey;
     
     
 }
@@ -46,6 +46,5 @@ section{
     float: left;
 }
 #Game{
-    height: 500px;
-    width: 250px;
+    
 }
