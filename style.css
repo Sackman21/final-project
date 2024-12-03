@@ -5,9 +5,11 @@ body{
 }
 h1{
     font-size: 2em;
+    float: left;
 }
 h2{
     font-size: 1.5em;
+    float: left;
 }
 p{
     line-height: 1.5em;
@@ -17,6 +19,7 @@ p{
 section{
     display: flex;
     background-color: grey;
+    padding: 10px;
     
 }
 
